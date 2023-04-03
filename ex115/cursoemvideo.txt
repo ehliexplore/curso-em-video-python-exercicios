@@ -1,0 +1,6 @@
+Luis;28
+Isabella;25
+Josefa;47
+Gustavo Guanabara;43
+Bruno Tobias;25
+Kanye West;45
